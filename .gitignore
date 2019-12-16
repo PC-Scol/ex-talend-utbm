@@ -1,0 +1,8 @@
+**/process/*.screenshot
+**/code
+**/sqlPatterns
+**/temp
+.settings
+**/poms/
+*.log
+recycle_bin.index
